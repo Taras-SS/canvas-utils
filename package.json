@@ -10,9 +10,17 @@
     "canvas utils"
   ],
   "author": "Taras Dyda",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "18.11.7",
     "typescript": "4.8.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taras-SS/canvas-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Taras-SS/canvas-utils/issues"
+  },
+  "homepage": "https://github.com/Taras-SS/canvas-utils"
 }
