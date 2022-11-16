@@ -1,5 +1,5 @@
 {
-  "name": "canvas-utils",
+  "name": "@taras/canvas-utils",
   "version": "1.0.0",
   "description": "canvas utils",
   "main": "./build/index.js",
