@@ -64,7 +64,7 @@ renderPyramid(ctx, config)
         <li>x - beginning of the pyramid(required)</li>
         <li>yBottom - lowest point of the pyramid(required)</li>
         <li>yTop - highest point of the pyramid(required)</li>
-        <li>primaryColor - front color(optional), d49c5f by default</li>
+        <li>primaryColor - front color(optional), #d49c5f by default</li>
         <li>secondaryColor - color of the back part of the pyramid(optional), #3b230b by default</li>
     </ul>
     </li>
