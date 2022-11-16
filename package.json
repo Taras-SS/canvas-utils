@@ -1,0 +1,18 @@
+{
+  "name": "canvas-utils",
+  "version": "1.0.0",
+  "description": "canvas utils",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "canvas utils"
+  ],
+  "author": "Taras Dyda",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "18.11.7",
+    "typescript": "4.8.4"
+  }
+}
