@@ -1,6 +1,6 @@
 {
-  "name": "@taras/canvas-utils",
-  "version": "1.0.0",
+  "name": "taras-canvas-utils",
+  "version": "1.1.0",
   "description": "canvas utils",
   "main": "./build/index.js",
   "scripts": {
